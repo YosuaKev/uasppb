@@ -2,7 +2,6 @@ package com.example.quizkit.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Variabel warna dengan nilai merah
 val Red80 = Color(0xFFFFB3B3)
 val RedGrey80 = Color(0xFFCC9999)
 val RedPink80 = Color(0xFFFFCCCC)
